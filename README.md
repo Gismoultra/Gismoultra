@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on LUAU & Phyton Projects<br>🌱 I’m currently learning C#
+🔭 I’m currently working on LUA & Phyton Projects<br>🌱 I’m currently learning C#<br>Also im Currently working on my Own Big Project Called Gismo Systems
 
 
 ## 🌐 Socials:
