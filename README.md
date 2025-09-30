@@ -25,7 +25,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Gismoultra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔝 Random Meme
-[![](https://media.discordapp.net/attachments/1066729414026592347/1364022284393910372/ezgif-5e9c21487804e0.gif?ex=68dd127e&is=68dbc0fe&hm=779558752ef660ab24bfba4400388456d718e3ad4f86f0f63a01122688fbf0a2&=)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
