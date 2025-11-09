@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning C# and the .Net Enviorment<br>Also im Currently working on my Own Big Project Called Gismo Systems :)
+🌱 I’m currently learning C# and the .Net Enviorment<br>
 
 
 ## 🌐 Socials:
