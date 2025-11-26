@@ -1,29 +1,123 @@
-# 💫 About Me:
-🌱 I’m currently learning C# and the .Net Enviorment<br>
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/xePHWvEkrG) 
-
-# 💻 Tech Stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gismoultra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gismoultra&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gismoultra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gismoultra&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gismoultra&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<div align="center">
+  
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                   ║
+║   ██████╗ ██╗███████╗███╗   ███╗ ██████╗ ██╗   ██╗██╗  ████████╗██████╗  ██████╗  ║
+║  ██╔════╝ ██║██╔════╝████╗ ████║██╔═══██╗██║   ██║██║  ╚══██╔══╝██╔══██╗ ██╔══██╗ ║
+║  ██║  ███╗██║███████╗██╔████╔██║██║   ██║██║   ██║██║     ██║   ██████╔╝ ███████║ ║
+║  ██║   ██║██║╚════██║██║╚██╔╝██║██║   ██║██║   ██║██║     ██║   ██╔══██╗ ██╔══██║ ║
+║  ╚██████╔╝██║███████║██║ ╚═╝ ██║╚██████╔╝╚██████╔╝███████╗██║   ██║  ██║ ██║  ██║ ║
+║   ╚═════╝ ╚═╝╚══════╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝   ╚═╝  ╚═╝ ╚═╝  ╚═╝ ║
+║                                                                                   ║
+╚═══════════════════════════════════════════════════════════════════════════════════╝
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gismoultra&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+```ascii
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                  ║
+║      Built with passion | Secured with knowledge | Powered by Energy Drinks      ║
+║                                                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## Tech
+
+<div align="center">
+
+### Technology Stack 
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### Languages & Low Level
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=001f3f)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=001f3f)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=001f3f)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=001f3f)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white&labelColor=001f3f)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=001f3f)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=001f3f)
+
+</td>
+<td align="center" width="50%">
+
+### Embedded & Hardware
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=001f3f)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white&labelColor=001f3f)
+
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white&labelColor=001f3f)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&labelColor=001f3f)
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### Network & Security
+
+![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white&labelColor=001f3f)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=001f3f)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=001f3f)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=001f3f)
+![Pi-Hole](https://img.shields.io/badge/Pi--Hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white&labelColor=001f3f)
+
+</td>
+<td align="center" width="50%">
+
+### Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white&labelColor=001f3f)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=001f3f)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=001f3f)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=001f3f)
+
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
+
+### Design & Modeling
+
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=001f3f)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=001f3f)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=001f3f)
+
+</td>
+</tr>
+</table>
+
+## Stats
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gismoultra&show_icons=true&theme=radical&bg_color=0a192f&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&border_color=00d9ff&hide_border=false&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Gismoultra&theme=radical&background=0a192f&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&border=00d9ff&stroke=00d9ff" />
+
+</div>
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,100:00d9ff&height=120&section=footer&text=&fontSize=0" width="100%"/>
+
+</div>
