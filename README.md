@@ -16,13 +16,7 @@
 ---
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                  ║
-║      Built with passion | Secured with knowledge | Powered by Energy Drinks      ║
-║                                                                                  ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
-```
+# Built with passion | Secured with knowledge | Powered by Energy Drinks
 
 </div>
 
