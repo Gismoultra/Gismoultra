@@ -13,7 +13,6 @@
 ╚═══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
----
 <div align="center">
 
 ## Built with passion | Secured with knowledge | Powered by Energy Drinks
