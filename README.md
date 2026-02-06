@@ -15,7 +15,7 @@
 
 <div align="center">
 
-## Built with passion | Secured with knowledge | Powered by Energy Drinks
+## Built with passion | Secured with knowledg
 
 </div>
 
