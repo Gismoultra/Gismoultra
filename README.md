@@ -98,14 +98,6 @@
 </td>
 </tr>
 </table>
-
-## Stats
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gismoultra&show_icons=true&theme=radical&bg_color=0a192f&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&border_color=00d9ff&hide_border=false&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Gismoultra&theme=radical&background=0a192f&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&border=00d9ff&stroke=00d9ff" />
-
 </div>
 
 
